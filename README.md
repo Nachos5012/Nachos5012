@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Nachos5012
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning coding
+- 👋 Hi, I’m @KrishaHemani
+- 🌱 I’m currently learning coding @CSULB 
 - 💞️ I’m looking to collaborate on coding related to anything
 - 📫 How to reach me, by sending me a message or tagging me
 
